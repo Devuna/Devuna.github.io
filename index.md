@@ -1,8 +1,3 @@
-About
------
-
-This page provides indexed access to our documentation.
-
 Contents
 --------
 
