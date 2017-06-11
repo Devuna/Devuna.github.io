@@ -1,7 +1,7 @@
 About
 -----
 
-This page provides access to documentation for our repositories
+This page provides indexed access to our documentation.
 
 Contents
 --------
