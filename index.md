@@ -1,6 +1,3 @@
-
-![](images/logo.png)
-
 About
 -----
 
@@ -15,7 +12,7 @@ Contents
 
 * [Methods](http://devuna.github.io/ctIconPickerMethod)
 
-* [Source](http://devuna.gethub.ctIconPicker)
+* [Source](https://github.com/Devuna/Devuna-ctIconPicker)
 
 ----------
 
