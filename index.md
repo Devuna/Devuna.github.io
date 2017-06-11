@@ -1,24 +1,21 @@
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
+![](images/logo.png)
 
 About
 -----
 
 This page provides access to documentation for our repositories
 
+Contents
+--------
 
-Links
------
+#### ctIconPicker ####
 
-[ctIconPicker documentation](http://devuna.github.io/ctIconPicker)
-* `Source Code on GitHub <https://github.com/defushnisoft/ClarionMetroWizard>`_
-* `Blog post on ClarionEdge <http://www.clarionedge.com/clarion/examples/clarion-metro-wizard.html>`_
+* [Properties](http://devuna.github.io/ctIconPickerProperty)
 
-Screenshots
------------
+* [Methods](http://devuna.github.io/ctIconPickerMethod)
+
+* [Source](http://devuna.gethub.ctIconPicker)
+
+----------
+
