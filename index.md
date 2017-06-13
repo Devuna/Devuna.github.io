@@ -26,7 +26,7 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 ## Common Files ##
 
-* [Templates](http://devuna.github.io/CommonTemplate.md)
+* [Templates](http://devuna.github.io/CommonTemplate)
 
 ## ctIconPicker ##
 
