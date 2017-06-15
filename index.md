@@ -14,7 +14,7 @@ images - SoftVelocity/Clarion10/Accessory/images
 
 libsrc/win - SoftVelocity/Clarion10/Accessory/libsrc/win
 
-template - SoftVelocity/Clarion10/Accessory/template/win
+template/win - SoftVelocity/Clarion10/Accessory/template/win
 
 Many of our projects rely on a common set of templates and include files.  These are provided in the [DEVUNA-COMMON](https://github.com/Devuna/Devuna-Common) repository, and, if you intend to utilize the code in our other repositories it would be a good idea to **pull the DEVUNA-COMMON repository first**.
 
