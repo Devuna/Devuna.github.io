@@ -42,12 +42,5 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [Source](https://github.com/Devuna/Devuna-CyberTools)
 
-
-## DateTimePicker
-
-* [Help](https://github.com/Devuna/Devuna-DateTimePicker/blob/master/help/Contents.htm)
-
-* [Source](https://github.com/Devuna/Devuna-DateTimePicker)
-
 ----------
 
