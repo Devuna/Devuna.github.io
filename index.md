@@ -31,9 +31,9 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-CyberTools**](http://devuna.github.io/Devuna-CyberTools)
 
-* [**Devuna-DateTimePicker**](https://github.com/Devuna/Devuna-DateTimePicker)
+* [**Devuna-DateTimePicker**](http://devuna.github.com/Devuna-DateTimePicker)
 
-* [**Devuna-Queue-Edit-In-Place**](https://github.com/Devuna/Devuna-Queue-Edit-In-Place)
+* [**Devuna-Queue-Edit-In-Place**](http://devuna.github.com/Devuna-Queue-Edit-In-Place)
 
 ----------
 
