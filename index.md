@@ -27,13 +27,13 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-Common**](http://devuna.github.io/CommonTemplate)
 
-* [**Devuna-ctIconPicker**](http://devuna.github.io/Devuna-ctIconPicker)
+* [**Devuna-ctIconPicker**](http://devuna.github.io/Devuna-ctIconPicker/)
 
-* [**Devuna-CyberTools**](http://devuna.github.io/Devuna-CyberTools)
+* [**Devuna-CyberTools**](http://devuna.github.io/Devuna-CyberTools/)
 
-* [**Devuna-DateTimePicker**](http://devuna.github.com/Devuna-DateTimePicker)
+* [**Devuna-DateTimePicker**](http://devuna.github.com/Devuna-DateTimePicker/)
 
-* [**Devuna-Queue-Edit-In-Place**](http://devuna.github.com/Devuna-Queue-Edit-In-Place)
+* [**Devuna-Queue-Edit-In-Place**](https://devuna.github.io/Devuna-Queue-Edit-In-Place/)
 
 ----------
 
