@@ -22,25 +22,18 @@ Once you have registered the KCRCHAIN template there is one more **IMPORTANT STE
 There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clarion patch that you install**. This utility will prepare your version of Clarion for use with Devuna ABC Templates. You will need to know the path to where your version of Clarion is installed.
 
 # Documentation Contents #
+
 --------
 
-## Common Files ##
+* [**Devuna-Common**](http://devuna.github.io/CommonTemplate)
 
-* [Templates](http://devuna.github.io/CommonTemplate)
+* [**Devuna-ctIconPicker**](http://devuna.github.io/Devuna-ctIconPicker)
 
-## ctIconPicker ##
+* [**Devuna-CyberTools**](http://devuna.github.io/Devuna-CyberTools)
 
-* [Properties](http://devuna.github.io/ctIconPickerProperty)
+* [**Devuna-DateTimePicker**](https://github.com/Devuna/Devuna-DateTimePicker)
 
-* [Methods](http://devuna.github.io/ctIconPickerMethod)
-
-* [Source](https://github.com/Devuna/Devuna-ctIconPicker)
-
-## CyberTools
-
-* [Functions](http://devuna.github.io/CyberTools)
-
-* [Source](https://github.com/Devuna/Devuna-CyberTools)
+* [**Devuna-Queue-Edit-In-Place**](https://github.com/Devuna/Devuna-Queue-Edit-In-Place)
 
 ----------
 
