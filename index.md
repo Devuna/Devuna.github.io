@@ -21,9 +21,24 @@ Many of our projects rely on a common set of templates and include files.  These
 Once you have registered the KCRCHAIN template there is one more **IMPORTANT STEP** to complete the installation.
 There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clarion patch that you install**. This utility will prepare your version of Clarion for use with Devuna ABC Templates. You will need to know the path to where your version of Clarion is installed.
 
-# Documentation Contents #
+# Contents #
 
 --------
+
+#### Third Party Tools ####
+
+* [**Devuna-CoolTips**](https://devuna.github.io/Devuna-CoolTips/)
+
+* [**Devuna-DateTimePicker**](https://devuna.github.io/Devuna-DateTimePicker/)
+
+* [**Devuna-OleDragDrop**](https://devuna.github.io/Devuna-OleDragDrop/)
+
+* [**Devuna-Queue-Edit-In-Place**](https://devuna.github.io/Devuna-Queue-Edit-In-Place/)
+
+* [**Devuna-ScreenCaptureTools**](https://devuna.github.io/Devuna-ScreenCaptureTools/)
+
+
+#### Additional Tools ####
 
 * [**Devuna-Common**](https://devuna.github.io/Devuna-Common/)
 
@@ -31,11 +46,7 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-CyberTools**](https://devuna.github.io/Devuna-CyberTools/)
 
-* [**Devuna-DateTimePicker**](https://devuna.github.io/Devuna-DateTimePicker/)
-
-* [**Devuna-Queue-Edit-In-Place**](https://devuna.github.io/Devuna-Queue-Edit-In-Place/)
-
-* [**Devuna-ScreenCaptureTools**](https://devuna.github.io/Devuna-ScreenCaptureTools)
+* [**Devuna-Scintilla**](https://devuna.github.io/Devuna-Scintilla/)
 
 ----------
 
