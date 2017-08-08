@@ -35,7 +35,7 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-DateTimePicker**](https://devuna.github.io/Devuna-DateTimePicker/)
 
-* [**Devuna-KwikSourceSearch**](https://devuna.github.io/Devuna-Devuna-KwikSourceSearch/)
+* [**Devuna-KwikSourceSearch**](https://devuna.github.io/Devuna-KwikSourceSearch/)
 
 * [**Devuna-OleDragDrop**](https://devuna.github.io/Devuna-OleDragDrop/)
 
