@@ -4,6 +4,8 @@
 
 The DEVUNA repositories contain source code written in and for [Clarion for Windows®](http://www.SoftVelocity.com)
 
+If you pull a repository and place it within a "C:\GitHub" folder, then processes that utilize full file paths will work correctly. 
+
 Our repositories utilize the same folder structure as Clarion for Windows®.  Here is a list or the repository folders and their typical location in Clarion for Windows® version 10:
 
 documents - CSIDL\_COMMON_DOCUMENTS/Softvelocity/Clarion10/Accessory/Devuna/documents/[project name] (e.g. CoolTips)
@@ -33,6 +35,8 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-DateTimePicker**](https://devuna.github.io/Devuna-DateTimePicker/)
 
+* [**Devuna-KwikSourceSearch**](https://devuna.github.io/Devuna-Devuna-KwikSourceSearch/)
+
 * [**Devuna-OleDragDrop**](https://devuna.github.io/Devuna-OleDragDrop/)
 
 * [**Devuna-Queue-Edit-In-Place**](https://devuna.github.io/Devuna-Queue-Edit-In-Place/)
@@ -47,6 +51,8 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 * [**Devuna-ctIconPicker**](https://devuna.github.io/Devuna-ctIconPicker/)
 
 * [**Devuna-CyberTools**](https://devuna.github.io/Devuna-CyberTools/)
+
+* [**Devuna-IQXML**](https://devuna.github.io/Devuna-IQXML/)
 
 * [**Devuna-Scintilla**](https://devuna.github.io/Devuna-Scintilla/)
 
