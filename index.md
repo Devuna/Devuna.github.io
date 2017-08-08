@@ -54,6 +54,8 @@ There is a UTILITY template, **SupportABC**, that **MUST BE RUN after each Clari
 
 * [**Devuna-IQXML**](https://devuna.github.io/Devuna-IQXML/)
 
+* [**Devuna-LicenseTools**](https://devuna.github.io/Devuna-LicenseTools/)
+
 * [**Devuna-Scintilla**](https://devuna.github.io/Devuna-Scintilla/)
 
 ----------
